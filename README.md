@@ -20,7 +20,4 @@ The OPEA end user community is a vendor-neutral group of practitioners who are a
 If you would like to contribute a case study, please review our guidelines.
 
 ## Join the End User Community
-
-[Link to join]
-
-[Reasons why to join]
+The OPEA End user community is a collection of end users within and across industries all working at various stages to solve common challenges as they adopt enterprise-grade AI into their operations. Joining the OPEA End User Community will enable you to work with other end users looking to solve these challenges and share best practices. Being a part of the OPEA end user community, your voice will help drive the features, capabilities and direction of OPEA. 

@@ -5,7 +5,7 @@ Our goal with these use case evaluation frameworks is to help end users provide 
 ## Big Box and Arrow Diagram Analysis
 The "big-box and arrow" approach intentionally over simplifies the architectural diagram allowing the use case developer to provide context and details for each of the key components under analysis. 
 
-<img src="Box_n_arrow.png" alt="Box and arrow diagram showing external influences, traditional systems, a vector DB and an LLM" style="width: 25%;" />
+<img src="Box_n_arrow.png" alt="Box and arrow diagram showing external influences, traditional systems, a vector DB and an LLM" style="width: 50%;" />
 
 ## Failed Project Analysis
 With this type of analysis, the end user provides information about previous attempts to incorporate AI (either GenAI or traditional) to their enterprise. They discuss the successes and (importantly) the failures of those efforts and what they would need in a successful system. Some helpful components of failure analysis include: 

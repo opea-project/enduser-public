@@ -5,7 +5,7 @@ Our goal with these use case evaluation frameworks is to help end users provide 
 ## Big Box and Arrow Diagram Analysis
 The "big-box and arrow" approach intentionally over simplifies the architectural diagram allowing the use case developer to provide context and details for each of the key components under analysis. 
 
-
+![Box and arrow diagram showing external influences, traditional systems, a vector DB and an LLM]([https://example.com/image.jpg](https://github.com/opea-project/enduser-public/blob/main/eval_frameworks/Box_n_arrow.png) "Simple Box and Arrow Diagram")
 
 
 ## Failed Project Analysis
@@ -13,4 +13,6 @@ With this type of analysis, the end user provides information about previous att
 - Software (what was available at the time, what was tried, what was developed)
 - Data (representation, flow, ingest, storage)
 - Algorithms
-- Talent 
+- Talent
+- Infrastructure
+- APIs
